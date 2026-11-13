@@ -1,0 +1,10 @@
+{
+  "name": "FocusFlow — Grow your focus",
+  "short_name": "FocusFlow",
+  "description": "A calm, private focus timer with a living orb.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080b16",
+  "theme_color": "#080b16",
+  "icons": [{"src":"favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}
